@@ -7,6 +7,7 @@ import Lkmayin from './components/Lkmayin';
 import Notes from './components/Notes';
 import Footer from './components/Footer';
 import Bottombar from './components/Bottombar';
+import './App.css';
 
 class App extends Component {
     render() {
